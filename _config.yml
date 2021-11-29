@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Jacob Schwartz"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Jacob Schwartz the ASL Club Vice President"
+  avatar : "/assets/images/ILYHand.png"
+  bio    : "Welcome to the ASL Club website!"
   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
@@ -83,7 +83,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Calendar"
-      icon: "fab fa-fw fa-calendar"
+      icon: "fab fa-fw fa-googlecalendar"
       url: "https://calendar.google.com/calendar/u/0/embed?src=ukqvqj0bjq17f7g8hamki2bjb4@group.calendar.google.com&ctz=America/Denver"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -102,8 +102,6 @@ footer:
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
 
-ASL Club Calendar:
- 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/USUASLCLUB"
