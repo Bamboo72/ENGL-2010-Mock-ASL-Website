@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jacob Schwartz"
+  name   : "USU ASL Club"
   avatar : "/assets/images/ILYHand.png"
   bio    : "Welcome to the ASL Club website!"
   links:
@@ -70,7 +70,7 @@ author:
       icon: "fab fa-instagram"
       url: "https://www.instagram.com/usuaslclub/?hl=en"
     - label: "Calendar"
-      icon: "fas fa-calendar-alt"
+      icon: "far fa-calendar-alt"
       url: "https://calendar.google.com/calendar/u/0/embed?src=ukqvqj0bjq17f7g8hamki2bjb4@group.calendar.google.com&ctz=America/Denver"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
