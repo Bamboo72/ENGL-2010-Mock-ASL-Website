@@ -1,10 +1,14 @@
 ---
-title: "Post: A Recent Poll"
-last_modified_at: 2021-11-29T18:07:02-05:00
+title: "Activity: Game Night Sept. 10"
+last_modified_at: 2021-9-10T18:07:02-05:00
 categories:
-  - Blog
+  - Activities
 tags:
-  - News
+  - Activities
   - Announcements
 ---
-Here's the data from a recent poll conducted by the Vice President, Jacob Schwartz:
+
+Hey all you signing Aggies!
+Join us for a game night September 10!
+Bring your own games or just enjoy the ones we have here!
+This will be a voice off activity, but any skill level of ASL is welcome!
