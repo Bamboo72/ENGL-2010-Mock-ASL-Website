@@ -7,7 +7,7 @@ Bevilacqua, Maria Cecilia, et al. “The Universal Newborn Hearing Screening in 
 	
 Holcomb, Thomas K. Introduction to American Deaf Culture. Oxford Univ. Press, 2013.
 	
-Jay, Michelle, and Jill Baylor. “The Deaf Community and How You Can Get Involved: START ASL.” Start ASL | Learn American Sign Language with Our Complete 3-Level Course!, Start ASL, 15 Feb. 2021, www.startasl.com/deaf-community/. 
+Jay, Michelle, and Jill Baylor. “The Deaf Community and How You Can Get Involved: START ASL.” Start ASL Learn American Sign Language with Our Complete 3-Level Course!, Start ASL, 15 Feb. 2021, www.startasl.com/deaf-community/. 
 
 Lee, Chongmin. “Deafness and Cochlear Implants: A Deaf Scholar’s Perspective.” Journal of Child Neurology, vol. 27, no. 6, 24 Apr. 2012, pp. 821–823., doi:10.1177/0883073812441248. 
 	
