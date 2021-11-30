@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/USUASLCLUB"
     - label: "Instagram"
-      icon: "fab fa-instagram"
+      icon: "fab fa-instagram-square"
       url: "https://www.instagram.com/usuaslclub/?hl=en"
     - label: "Calendar"
       icon: "fas fa-calendar-alt"
