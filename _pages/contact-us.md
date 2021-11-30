@@ -3,8 +3,7 @@ permalink: /contact/
 title: "Contact Us"
 ---
 
-Offical ASL Club email:
-
+Offical ASL Club email: signingaggies@gmail.com
 
 * Club Advisor: Bryan Burns
 
