@@ -1,5 +1,5 @@
 ---
-title: "Post: 10 Years Ago..."
+title: "Post: 10 Years in the Past"
 last_modified_at: 2021-11-30T18:07:02-05:00
 categories:
   - Blog
