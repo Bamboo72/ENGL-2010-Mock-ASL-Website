@@ -14,6 +14,8 @@ Offical ASL Club email: signingaggies@gmail.com
 * Treasurer: Kirsten
 * Public Relations: Adam Smith
 * Activities Coordinator: Tait Aamodt
+
+
 Note this list is incomplete due to me not knowing all the positions and people's names... 😅
 
 Message us on [Facebook](https://www.facebook.com/USUASLCLUB) or [Instagram](https://www.instagram.com/usuaslclub/?hl=en)
