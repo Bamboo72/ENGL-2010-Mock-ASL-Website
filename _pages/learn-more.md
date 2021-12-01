@@ -3,7 +3,6 @@ permalink: /learn_more/
 title: "Learn More About Deaf Culture"
 ---
 
-# Learn More About Deaf Culture
 ## Contents:
 * [What is Deaf culture?](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#what-is-deaf-culture)
 * [How can you be more involved with Deaf culture?](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#how-can-you-be-more-involved-with-deaf-culture)
