@@ -5,11 +5,11 @@ title: "Learn More About Deaf Culture"
 
 # Learn More About Deaf Culture
 ## Contents:
-* [What is Deaf culture?](##What-is-Deaf-culture?)
-* [How can you be more involved with Deaf culture?](##How-can-you-be-more-involved-with-Deaf-culture?)
-* [Cochlear implants](##Cochlear-implants)
-* [Deaf culture here at USU](##Deaf-culture-here-at-USU)
-* [Works Cited](##Works-Cited)
+* [What is Deaf culture?](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#what-is-deaf-culture)
+* [How can you be more involved with Deaf culture?](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#how-can-you-be-more-involved-with-deaf-culture)
+* [Cochlear implants](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#cochlear-implants)
+* [Deaf culture here at USU](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#deaf-culture-here-at-usu)
+* [Works Cited](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#works-cited)
 
 ## What is Deaf culture?
 Deaf culture is the unique culture of Deaf people. Keep in mind that's Deaf with a capital "D". Deaf culture is distinguished by the unique language, art, and behaviors of Deaf people. A great overview of Deaf culture is given in the book, "Introduction to American Deaf Culture". This book, written by Deaf author Thomas K. Holcomb, is a fantastic exploration of American Deaf culture and all it has to offer. The main focus of the book is how Deaf culture fits the definition of culture by having its own unique language, art, literature, customs, and people. Holcomb covers topics including  how American and Deaf culture contrast, how Deaf people feel about being called disabled, how Deaf art and literature reflect a unique perspective, and how Deaf culture has evolved over centuries of hardship due to optimistic Deaf individuals. Holcomb also doesn’t stray away from covering controversial and complex topics such as discrimination within the Deaf community; eugenics, hearing aids, and cochlear implants; and the necessity of hearing people’s assistance to build bridges between the Deaf and hearing worlds. This book contributes to my project by being a large source of my knowledge of Deaf culture, and by showcasing Deaf culture in multiple different perspectives. This book also includes several examples of Deaf art and poetry, and several anecdotes that demonstrate the unique existence of Deaf culture.
