@@ -1,5 +1,5 @@
 ---
-title: "Post: "Going Deaf" Project"
+title: "Post: \"Going Deaf\" Project"
 last_modified_at: 2021-7-20T18:07:02-05:00
 categories:
   - Blog
