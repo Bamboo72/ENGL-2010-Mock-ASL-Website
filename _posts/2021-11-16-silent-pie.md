@@ -8,7 +8,7 @@ tags:
   - Announcements
 ---
 
-![Pies](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/pies.jpg)
+![Pies](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/pies.jpg?raw=true)
 
 
 Silent Pie Night
