@@ -12,7 +12,11 @@ title: "Learn More About Deaf Culture"
 
 ## What is Deaf culture?
 Deaf culture is the unique culture of Deaf people. Keep in mind that's Deaf with a capital "D". Deaf culture is distinguished by the unique language, art, and behaviors of Deaf people.
+
+
 ![Deaf Culture](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/Deaf_culture_logo.jfif?raw=true)
+
+
 A great overview of Deaf culture is given in the book, "Introduction to American Deaf Culture". This book, written by Deaf author Thomas K. Holcomb, is a fantastic exploration of American Deaf culture and all it has to offer. The main focus of the book is how Deaf culture fits the definition of culture by having its own unique language, art, literature, customs, and people. Holcomb covers topics including  how American and Deaf culture contrast, how Deaf people feel about being called disabled, how Deaf art and literature reflect a unique perspective, and how Deaf culture has evolved over centuries of hardship due to optimistic Deaf individuals. Holcomb also doesn’t stray away from covering controversial and complex topics such as discrimination within the Deaf community; eugenics, hearing aids, and cochlear implants; and the necessity of hearing people’s assistance to build bridges between the Deaf and hearing worlds. This book also includes several examples of Deaf art and poetry, and several anecdotes that demonstrate the unique existence of Deaf culture.
 
 ## How can you be more involved with Deaf culture?
