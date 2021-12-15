@@ -98,4 +98,4 @@ Besides the classes, the biggest way to connect with Deaf culture here at USU is
 [Works Cited](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/works_cited/)
 
 
-[Back to the Top](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#what-is-deaf-culture)
+[Back to the Top](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/learn_more/#contents)
