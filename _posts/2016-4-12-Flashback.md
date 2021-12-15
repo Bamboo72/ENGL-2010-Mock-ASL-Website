@@ -16,6 +16,6 @@ The outcome of the court case was decided about a year later, and the Deaf stude
 This goes to show that Deaf students are capable of making change in the world they live in!
 
 You can read more about this event in these sources:
-* https://www.deseret.com/2007/6/5/20022702/usu-settles-suit-by-deaf-students
-* https://usustatesman.com/deaf-students-filing-lawsuit-against-usu/
-* https://www.hjnews.com/hearing-impaired-students-sue-usu/article_8fe2e3b7-dcc4-5ef9-b6e0-a7caa0ace450.html
+* [https://www.deseret.com/2007/6/5/20022702/usu-settles-suit-by-deaf-students](https://www.deseret.com/2007/6/5/20022702/usu-settles-suit-by-deaf-students)
+* [https://usustatesman.com/deaf-students-filing-lawsuit-against-usu/](https://usustatesman.com/deaf-students-filing-lawsuit-against-usu/)
+* [https://www.hjnews.com/hearing-impaired-students-sue-usu/article_8fe2e3b7-dcc4-5ef9-b6e0-a7caa0ace450.html](https://www.hjnews.com/hearing-impaired-students-sue-usu/article_8fe2e3b7-dcc4-5ef9-b6e0-a7caa0ace450.html)
