@@ -34,8 +34,13 @@ It might seem intimidating, but don't worry! Simply making an effort to communic
 Cochlear implants are a rather complicated and controversial topic, but here's a brief overview:
 
 #### What are cochlear implants?
-"A cochlear implant (CI) is a surgically implanted neuroprosthesis that provides a person who has bilateral moderate-to-profound sensorineural hearing loss with sound perception and improved speech understanding in both quiet and noise. The CI bypasses the normal acoustic hearing process by providing direct electrical stimulation to the auditory nerve. Through everyday listening and effective auditory training, both children and adults learn to interpret those signals as speech and sound, thus restoring functional hearing." and "Despite providing the ability for hearing and oral speech communication to children and adults with severe to profound hearing loss, there is also controversy around the devices. Much of the strongest objection to cochlear implants has come from the Deaf community. For some in the Deaf community, cochlear implants are an affront to their culture, which as some view it, is a minority threatened by the hearing majority." - Wikipedia
+"A cochlear implant (CI) is a surgically implanted neuroprosthesis that provides a person who has bilateral moderate-to-profound sensorineural hearing loss with sound perception and improved speech understanding in both quiet and noise. The CI bypasses the normal acoustic hearing process by providing direct electrical stimulation to the auditory nerve. Through everyday listening and effective auditory training, both children and adults learn to interpret those signals as speech and sound, thus restoring functional hearing." 
+
+"Despite providing the ability for hearing and oral speech communication to children and adults with severe to profound hearing loss, there is also controversy around the devices. Much of the strongest objection to cochlear implants has come from the Deaf community. For some in the Deaf community, cochlear implants are an affront to their culture, which as some view it, is a minority threatened by the hearing majority." - Wikipedia
+
+
 ![Cochlear Implant](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/man-with-cochlear-implant.jpg?raw=true)
+
 
 Practically, cochlear implants are a device surgically placed in the skull of an individuals with hearing loss so they can "hear", but they're rather controversial especially in the Deaf community for a variety of reasons including:
 * The risk due to the surgery
@@ -44,7 +49,10 @@ Practically, cochlear implants are a device surgically placed in the skull of an
 * The individual becomes isolated from both the hearing and Deaf worlds
 etc...
 
+
 ![Cochlear Implant Diagram](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/cochlear-implant-diagram.jpg?raw=true)
+
+
 
 #### Aren't there positives of cochlear implants?
 The National Center for Hearing Assessment and Management here at USU are in support of hearing aids and cochlear implants. They have a quote: "A child's ability to hear should not be determined based on family income. It should be viewed as a fundamental right to the citizens of our state, especially when we have a mandated hearing screening program. To diagnose deafness and then fail to provide intervention is morally and ethically unacceptable. We need to provide access to hearing aids via multiple sources (Medicaid and private insurances)." 
@@ -57,13 +65,14 @@ A Deaf scholar, Dr. Chongmin Lee, wrote an academic article, in which he gives a
 <details>
 <summary><strong>Click here to read some quotes from Dr. Lee's article.</strong></summary>
 
-> readers may wonder if I would want cochlear implants and, whether if I had a deaf child I would give him or her cochlear implants? My response is a categorical “No.” I know that my deafness can be a disadvantage in a majority-hearing society. As readers may suspect, I have struggled with personal and public issues secondary to my disability—I do not deny my physical disability. It is true that I can’t perceive sounds without hearing-assistance technology, and even with hearing aids or cochlear implants, I would still need an interpreter to facilitate communication with hearing individuals who do not know sign language. Yet I do not need to be perceived in a negative way: as a deaf person with a hearing impairment.
+  > readers may wonder if I would want cochlear implants and, whether if I had a deaf child I would give him or her cochlear implants? My response is a categorical “No.” I know that my deafness can be a disadvantage in a majority-hearing society. As readers may suspect, I have struggled with personal and public issues secondary to my disability—I do not deny my physical disability. It is true that I can’t perceive sounds without hearing-assistance technology, and even with hearing aids or cochlear implants, I would still need an interpreter to facilitate communication with hearing individuals who do not know sign language. Yet I do not need to be perceived in a negative way: as a deaf person with a hearing impairment.
 
-> My Deafness has multiple meanings. It is a source of empowerment and pride, and a source of scorn. My Deafness is primarily due to the social barriers I encounter every day. Those caused by prejudice toward and discrimination against deaf people, not just due to my inability to perceive sounds. Nonetheless, I have never considered having cochlear implants because I do not believe that these issues can be solved by implants. Instead, social experiences have taught me how to deal with these issues and how to survive in a hearing-majority world.
+  > My Deafness has multiple meanings. It is a source of empowerment and pride, and a source of scorn. My Deafness is primarily due to the social barriers I encounter every day. Those caused by prejudice toward and discrimination against deaf people, not just due to my inability to perceive sounds. Nonetheless, I have never considered having cochlear implants because I do not believe that these issues can be solved by implants. Instead, social experiences have taught me how to deal with these issues and how to survive in a hearing-majority world.
 
-> After learning sign language, I accepted my identity as a Deaf person who uses a visual language, not one with a deficit in hearing, and decided to move to the United States for postgraduate studies. I believed that I could learn English through vision, without listening and speaking training. As Charles Dickens wrote, “it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.” Learning sign language has positively influenced my life and self-esteem—my season of light. My Deafness is not based on how much I can’t hear or perceive sounds, but on how well and how clearly I can or cannot communicate with hearing individuals in a meaningful way. I believe that Deafness can be eliminated when all deaf individuals have equal opportunity to access information, public education, and public services, as hearing individuals do every day. (Chongmin Lee)
+  > After learning sign language, I accepted my identity as a Deaf person who uses a visual language, not one with a deficit in hearing, and decided to move to the United States for postgraduate studies. I believed that I could learn English through vision, without listening and speaking training. As Charles Dickens wrote, “it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.” Learning sign language has positively influenced my life and self-esteem—my season of light. My Deafness is not based on how much I can’t hear or perceive sounds, but on how well and how clearly I can or cannot communicate with hearing individuals in a meaningful way. I believe that Deafness can be eliminated when all deaf individuals have equal opportunity to access information, public education, and public services, as hearing individuals do every day. (Chongmin Lee)
   
 </details> 
+  
   
 You can find a link to the article in the [Works Cited](##Works-Cited) page at the bottom of this page.
 
