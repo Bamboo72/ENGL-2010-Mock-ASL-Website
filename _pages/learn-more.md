@@ -22,8 +22,11 @@ Deaf culture is the unique culture of Deaf people. Keep in mind that's Deaf with
 A great overview of Deaf culture is given in the book, "Introduction to American Deaf Culture". This book, written by Deaf author Thomas K. Holcomb, is a fantastic exploration of American Deaf culture and all it has to offer. The main focus of the book is how Deaf culture fits the definition of culture by having its own unique language, art, literature, customs, and people. 
 
 Holcomb covers topics including  how American and Deaf culture contrast, how Deaf people feel about being called disabled, how Deaf art and literature reflect a unique perspective, and how Deaf culture has evolved over centuries of hardship due to optimistic Deaf individuals. Holcomb also doesn’t stray away from covering controversial and complex topics such as discrimination within the Deaf community; eugenics, hearing aids, and cochlear implants; and the necessity of hearing people’s assistance to build bridges between the Deaf and hearing worlds. 
-
 This book also includes several examples of Deaf art and poetry, and several anecdotes that demonstrate the unique existence of Deaf culture.
+
+Note: It is estimated that there are more than 300 sign languages used around the world. Here we focus on American Sign Language because we are based in Logan, Utah of the United States. Each sign language is different, although some are derived from each other. For instance, American Sign Language is descended from French Sign Language or LSF.
+
+Variations between Deaf cultures exist due to being surrounded by the many hearing cultures of the world, but keep in mind that many of the aspects of Deaf culture apply world wide, despite the differences in national culture. Something interesting of note is that Deaf people are more capable of communicating with foreigners than hearing people due to constantly being used to having a communication barrier.
 
 ## How can you be more involved with Deaf culture?
 [This article](https://www.startasl.com/deaf-community/) from Start ASL gives great information about Deaf culture and its different layers, as well as how people can become more involved with it.
