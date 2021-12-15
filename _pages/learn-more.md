@@ -75,7 +75,7 @@ A Deaf scholar, Dr. Chongmin Lee, wrote an academic article, in which he gives a
 "After learning sign language, I accepted my identity as a Deaf person who uses a visual language, not one with a deficit in hearing, and decided to move to the United States for postgraduate studies. I believed that I could learn English through vision, without listening and speaking training. As Charles Dickens wrote, “it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.” Learning sign language has positively influenced my life and self-esteem—my season of light. My Deafness is not based on how much I can’t hear or perceive sounds, but on how well and how clearly I can or cannot communicate with hearing individuals in a meaningful way. I believe that Deafness can be eliminated when all deaf individuals have equal opportunity to access information, public education, and public services, as hearing individuals do every day." (Chongmin Lee) 
   
 </details>  
-
+<br/>
 You can find a link to the article in the [Works Cited](##Works-Cited) page at the bottom of this page.
 
 #### Want a neutral view of cochlear implants?
