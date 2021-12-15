@@ -14,7 +14,9 @@ title: "Learn More About Deaf Culture"
 Deaf culture is the unique culture of Deaf people. Keep in mind that's Deaf with a capital "D". Deaf culture is distinguished by the unique language, art, and behaviors of Deaf people.
 
 
+
 ![Deaf Culture](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/Deaf_culture_logo.jfif?raw=true)
+
 
 
 A great overview of Deaf culture is given in the book, "Introduction to American Deaf Culture". This book, written by Deaf author Thomas K. Holcomb, is a fantastic exploration of American Deaf culture and all it has to offer. The main focus of the book is how Deaf culture fits the definition of culture by having its own unique language, art, literature, customs, and people. 
@@ -39,7 +41,9 @@ Cochlear implants are a rather complicated and controversial topic, but here's a
 "Despite providing the ability for hearing and oral speech communication to children and adults with severe to profound hearing loss, there is also controversy around the devices. Much of the strongest objection to cochlear implants has come from the Deaf community. For some in the Deaf community, cochlear implants are an affront to their culture, which as some view it, is a minority threatened by the hearing majority." - Wikipedia
 
 
+
 ![Cochlear Implant](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/man-with-cochlear-implant.jpg?raw=true)
+
 
 
 Practically, cochlear implants are a device surgically placed in the skull of an individuals with hearing loss so they can "hear", but they're rather controversial especially in the Deaf community for a variety of reasons including:
@@ -50,7 +54,9 @@ Practically, cochlear implants are a device surgically placed in the skull of an
 etc...
 
 
+
 ![Cochlear Implant Diagram](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/cochlear-implant-diagram.jpg?raw=true)
+
 
 
 
@@ -84,7 +90,9 @@ Here at USU we have a great set of ASL classes where you can start from knowing 
 
 Besides the classes, the biggest way to connect with Deaf culture here at USU is probably through the ASL club. Be sure to checkout the posts about activities and Deaf culture we have here on our website. Additionally, you can most likely learn about upcoming Deaf events through connections in ASL club.
 
+
 ![ASL Club](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/ASLClub.webp?raw=true)
+
 
 ## Works Cited
 [Works Cited](https://bamboo72.github.io/ENGL-2010-Mock-ASL-Website/works_cited/)
