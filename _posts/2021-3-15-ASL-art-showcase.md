@@ -9,7 +9,6 @@ tags:
   - Deaf Art
 ---
 
-![Chuck Baird Painting](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/chuck-baird.jfif)
 ![Chuck Baird Painting Raw](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/chuck-baird.jfif?raw=true)
 
 Check out this blog with a small bit of writing about Chuck Baird and this painting he made!
