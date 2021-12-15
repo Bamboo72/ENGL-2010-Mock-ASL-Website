@@ -8,7 +8,7 @@ tags:
   - Announcements
 ---
 
-![Game Night](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/otherGameNight.jpeg)
+![Game Night](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/otherGameNight.jpeg?raw=true)
 
 Hey all you signing Aggies!
 Join us for a game night September 10!
