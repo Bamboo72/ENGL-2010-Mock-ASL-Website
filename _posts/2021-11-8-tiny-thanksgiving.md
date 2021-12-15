@@ -8,6 +8,9 @@ tags:
   - Announcements
 ---
 
+![Tiny Thanksgiving](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/tinyThanksgiving.jpg
+)
+
 TINY THANKSGIVING
 Do you like food? Do you like signing?
 Come join us for a fun evening of food and signing!
