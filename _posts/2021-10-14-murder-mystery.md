@@ -8,7 +8,7 @@ tags:
   - Announcements
 ---
 
-![Murder Mystery](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/Murder-Mystery.jpg)
+![Murder Mystery](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/Murder-Mystery.jpg?raw=true)
 
 Signing Aggies!
 Don't miss out on the fun ASL Club happenings this October!
