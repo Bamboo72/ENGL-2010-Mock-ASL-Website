@@ -8,8 +8,7 @@ tags:
   - Announcements
 ---
 
-![Game Night](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/Game_Night_Logo_Color-fasa.png
-)
+![Game Night](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/Game_Night_Logo_Color-fasa.png?raw=true)
 
 Signing Aggies!
 Hopefully, you are all staying warm out there in this fall weather!
