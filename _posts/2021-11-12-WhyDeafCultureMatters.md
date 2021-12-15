@@ -23,5 +23,6 @@ Check out this post about this ["Going Deaf" project](https://bamboo72.github.io
 As stated before, Deaf people are usually very friendly. Interacting with them shows how fun they are! Going to ASL or Deaf events is typically a great time because of the inclusive and welcoming atmosphere.
 If you need an example of how fun Deaf culture can be, just come to an ASL club event! Everyone is welcome, and it's always a great time. 😄
 
-![ASL Pride](https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/ASLPRIDE.jpeg
-)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Bamboo72/ENGL-2010-Mock-ASL-Website/blob/main/assets/images/ASLPRIDE.jpeg">
+</p>
