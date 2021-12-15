@@ -29,5 +29,5 @@ In the USU reddit poll the majority of people said that they didn't know we had 
 Overall, I think this poll could've gone better (with the sample size and amount of biased results), but I think there is some interesting data to come from it.
 Keep on the lookout for a future post about a revised poll I might make in the future!
 
-- Signing off ;)
+Signing off ;)
    Jacob Schwartz, Vice President
